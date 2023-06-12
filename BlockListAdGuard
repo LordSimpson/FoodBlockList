@@ -10,14 +10,8 @@
 ||foodhub.*$empty
 ||Bigfoodie.*$empty
 
-||just-eat.co.uk^$document
-||deliveroo.co.uk^$document
-||ubereats.com^$document
-||foodhub.co.uk^$document
-||Bigfoodie.co.uk^$document
-
-||just-eat.co.uk^
-||deliveroo.co.uk^
-||ubereats.com^
-||foodhub.co.uk^
-||Bigfoodie.co.uk^
+||just-eat.co.uk##^body
+||deliveroo.co.uk##^body
+||ubereats.com##^body
+||foodhub.co.uk##^body
+||Bigfoodie.co.uk##^body
