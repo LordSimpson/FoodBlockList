@@ -1,4 +1,8 @@
-||just-eat.*^
-||deliveroo.*^
-||ubereats.*^
-||foodhub.*^
+||just-eat.*
+||just-eat.*$empty
+||deliveroo.*
+||deliveroo.*$empty
+||ubereats.*
+||ubereats.*$empty
+||foodhub.*
+||foodhub.*$empty
