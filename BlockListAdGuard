@@ -10,11 +10,11 @@
 ||foodhub.*$empty
 ||Bigfoodie.*$empty
 
-||just-eat.co.uk##^body
-||deliveroo.co.uk##^body
-||ubereats.com##^body
-||foodhub.co.uk##^body
-||Bigfoodie.co.uk##^body
+www.just-eat.co.uk##^body
+www.deliveroo.co.uk##^body
+www.ubereats.com##^body
+www.foodhub.co.uk##^body
+www.Bigfoodie.co.uk##^body
 
 
 
